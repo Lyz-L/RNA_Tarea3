@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 #----------------------- Homework 3.1.b) --------------------------------------
-#RNA that produces the function " 1 + 2x + 4x^3" in the interval of [-1,1]. 
-#Graph the solution of the network together with the graph of the function.
+#RNA that produces the function " 1 + 2x + 4x^3" in the interval of [-1,1].---
+#Graph the solution of the network together with the graph of the function.---
 #------------------------------------------------------------------------------
 
 from sklearn.preprocessing import MinMaxScaler
